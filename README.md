@@ -3,6 +3,6 @@
 Generates a unique snowflake for id usage
 
 ```shell script
-$ curl https://snowflake.dlxmedia.io
+$ curl http://localhost:3000
 1281672986536968192
 ```
